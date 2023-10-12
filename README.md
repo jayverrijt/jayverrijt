@@ -13,4 +13,4 @@ Ik ben Jay 18 jaar oud
 - Docker, Linux Server, Windows Server, Windows, Group Policy
 
 ## Contact
-- [Mail](mailto:jay@jverrijt.nl)
+- [Mail](mailto:no-reply@jverrijt.com)
