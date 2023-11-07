@@ -9,7 +9,7 @@ Ik ben Jay 18 jaar oud
 - ◑ ICT Beheerder (versneld afgerond)
 
 ## Skills
-- PHP, JavaScript, HTML, CSS en C#
+- PHP, JavaScript, HTML, CSS, C# en Swift
 - Docker, Linux Server, Windows Server, Windows, Group Policy
 
 ## Contact
