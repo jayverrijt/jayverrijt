@@ -4,7 +4,7 @@
 
 ## Hoi Jay Hier
 
-Ik ben Jay 18 jaar oud
+Ik ben Jay 19 jaar oud
 - ◐ Softare Engineer (in versnelde opleiding)
 - ◑ ICT Beheerder (versneld afgerond)
 
