@@ -9,7 +9,7 @@
 
 Apart from the pinned repositories, I have built:
 - ﹩ [GeldBegeleiding](https://geldbegeleiding.nl)
-- 🔍 [SensitivityCheck](https://sensitivity-check.com)*Made for 4People Communications on Internship*
+- 🔍 [SensitivityCheck](https://sensitivity-check.com) *Made for 4People Communications on Internship*
 - 👕 [GoodLookz](https://github.com/vinitshahdeo/Water-Monitoring-System) *Made for 4People Communications on Internship*
 - 📷 [ScannerApp](https://github.com/jayverrijt/scannerapp) *One of projects to mimick an PDA reatil computer*
 
