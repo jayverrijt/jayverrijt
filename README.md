@@ -1,16 +1,16 @@
 <h1 align='center'>👋 Hello!</h1>
 <p align='center'>
-<a href="https://wakatime.com/@018d7fcd-3625-4d05-9e6b-2a3cebe45299"><img src="https://wakatime.com/badge/user/018d7fcd-3625-4d05-9e6b-2a3cebe45299.svg"/></a>
 <a href="https://peerlist.io/vinitshahdeo"><img src="https://github-readme-badge.peerlist.io/api/vinitshahdeo"/></a>
 <a href="https://visitorbadge.io/status?path=jayverrijt%jayverrijt"><img src="https://api.visitorbadge.io/api/visitors?path=jayverrijt%2Fjayverrijt&label=🌍 %20 Total%20Visitors&countColor=%23263759&style=flat&labelStyle=none" /></a>
 <a href="https://github.com/jayverrijt?tab=repositories"><img src="https://img.shields.io/github/stars/jayverrijt?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
 </p>
-
+<!--
 Glad to see you here! I'm Vinit Shahdeo, a **Software Engineer** with a strong passion for **JavaScript** and **open-source**. I'm honored to be recognized twice as a [GitHub Star](https://stars.github.com/profiles/vinitshahdeo/) from India! With a knack for building **event-driven architecture**, I balance code with **badminton** 🏸 and find peace in a sip of **tea** 🍵 and **poetry** 🎙️. 
-
+<!--
 Currently, I'm building seamless neobanking solutions at [Novo](https://www.novo.co/) as a **Senior Backend Engineer**, following 4.5 years as a Software Engineer at [Postman](https://www.postman.com/). My notable contributions at Postman include building [Interceptor](https://learning.postman.com/docs/sending-requests/capturing-request-data/interceptor/) and [Integrations](https://www.postman.com/product/integrations/). Discover more about my [Postman journey](https://vinitshahdeo.dev/saying-goodbye-to-postman) and [valuable lessons](https://vinitshahdeo.dev/10-lessons-learned-as-software-engineer-at-postman). I've had the privilege of mentoring in [Google Summer of Code](https://blog.postman.com/join-postman-at-google-summer-of-code-2023/) (**GSoC**) at [AsyncAPI](https://github.com/asyncapi) and [Postman](https://blog.postman.com/postmans-projects-and-contributors-google-summer-of-code-2023/). You can find me at [`@vinitshahdeo-novo`](https://github.com/vinitshahdeo-novo) for my work in Novo.
-
+<!--
 [![Github Badge](https://img.shields.io/badge/-@vinitshahdeo--novo-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/vinitshahdeo-novo)](https://github.com/vinitshahdeo-novo) [![Vinit Shahdeo at Postman](http://img.shields.io/badge/Postman-vinitshahdeo-orange.svg?style=flat&logo=postman)](https://www.postman.com/vinitshahdeo) [![NPM - Vinit Shahdeo](https://img.shields.io/badge/npm-vinitshahdeo-231F20?logo=npm)](https://www.npmjs.com/~vinitshahdeo) [![Vinit Shahdeo - Product Hunt](https://img.shields.io/badge/Product%20Hunt-vinitshahdeo-critical?logo=producthunt&color=FF6154)](https://www.producthunt.com/@vinit_shahdeo) [![Sponsor Vinit Shahdeo](https://img.shields.io/badge/sponsor-vinitshahdeo-30363D?style=flat&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/vinitshahdeo)
+
 
 ### Featured blogs/articles
 
