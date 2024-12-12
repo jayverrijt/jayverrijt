@@ -33,7 +33,7 @@ Apart from the pinned repositories, I have built:
 I mostly work with **JavaScript**, specifically **Node.js** in the backend with **AWS** as the cloud and **Kafka** as the queuing system. Recently, I have been tinkering with **GoLang**.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Nodejs](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
 ![GoLang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white)
@@ -43,15 +43,6 @@ I mostly work with **JavaScript**, specifically **Node.js** in the backend with 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazon-aws)
 
-### Open Source Initiatives
-
-During [Hacktoberfest](https://github.com/vinitshahdeo/Hacktoberfest2021), I initiated a program aimed at [helping beginners kickstart their journey into open-source](https://vinitshahdeo.dev/hacktoberfest-2021), impacting over 1200+ beginners worldwide. Currently, I'm seeking collaboration for [#50DaysOfJavaScript](https://50daysofjavascript.netlify.app/), a community-led open-source initiative to enhance JavaScript skills to ace the next JS interviews. Please consider joining as a **participant**, **mentor**, or a **community partner**.
-
-[![GitHub Star - Vinit Shahdeo](https://img.shields.io/badge/GitHub_Star-%E2%AD%90_vinitshahdeo-E89B25?colorA=302237&logo=github)](https://stars.github.com/profiles/vinitshahdeo/) 
-
-<!--
-[![50DaysOfJavaScript](https://github-readme-stats.vercel.app/api/pin/?username=vinitshahdeo&repo=50DaysOfJavaScript&theme=gruvbox)](https://github.com/vinitshahdeo/50DaysOfJavaScript)
--->
 
 ### Let's connect!
 
@@ -62,9 +53,9 @@ Explore my thoughts at [vinitshahdeo.dev](https://vinitshahdeo.dev/), and let's 
 **Let's code, connect, and create awesome things together!**
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=vinitshahdeo&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitshahdeo&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=vinitshahdeo&theme=darcula&hide_border=true&background=FFFFFF00">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=jayverrijt&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=jayverrijt&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=jayverrijt&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
   <a href="https://www.buymeacoffee.com/vinitshahdeo"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
