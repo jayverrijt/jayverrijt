@@ -1,4 +1,4 @@
-<h1 align='center'>👋 Hello!</h1>
+<h1 align='center'>👋 Hoi!</h1>
 <p align='center'>
 <a href="https://peerlist.io/vinitshahdeo"><img src="https://github-readme-badge.peerlist.io/api/vinitshahdeo"/></a>
 <a href="https://visitorbadge.io/status?path=jayverrijt%jayverrijt"><img src="https://api.visitorbadge.io/api/visitors?path=jayverrijt%2Fjayverrijt&label=🌍 %20 Total%20Visitors&countColor=%23263759&style=flat&labelStyle=none" /></a>
