@@ -7,8 +7,8 @@
 ### Projects
 
 Apart from the pinned repositories, I have built:
-- 🎮 [Questinator](https://www.github.com/jayverrijt/questinator/)
-- € [MoneyMaker24](https://www.github.com/jayverrijt/MoneyMaker24/) 
+- 🎮 [Questinator](https://www.github.com/jayverrijt/questinator/) *End project - An video game using gen AI to make quests to complete*
+- € [MoneyMaker24](https://www.github.com/jayverrijt/MoneyMaker24/)  *An automatic crypto trading app*
 - 👕 [GoodLookz](https://glookz.duckdns.org) *Made for 4People Communications on Internship*
 - 📷 [ScannerApp](https://github.com/jayverrijt/scannerapp-mobile) *One of projects to mimick an PDA reatil computer*
 - 🚨 [Alert-All](https://4people.nl/enextsubpage/2/41) *Member of the developer team for Alert All by 4People Communications.*
