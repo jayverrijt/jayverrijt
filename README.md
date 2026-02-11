@@ -1,6 +1,5 @@
 <h1 align='center'>👋 Hoi!</h1>
 <p align='center'>
-<a href="https://visitorbadge.io/status?path=jayverrijt%jayverrijt"><img src="https://api.visitorbadge.io/api/visitors?path=jayverrijt%2Fjayverrijt&label=🌍 %20 Total%20Visitors&countColor=%23263759&style=flat&labelStyle=none" /></a>
 <a href="https://github.com/jayverrijt?tab=repositories"><img src="https://img.shields.io/github/stars/jayverrijt?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
 </p>
 
@@ -16,7 +15,11 @@ Apart from the pinned repositories, I have built:
 
 ### Tech Stack
 
-I mostly work with **PHP**, specifically **Laravel** with an **MySql** database i also tinker with **Flutter** and **Firebase**
+I am very well versed in multiple techstacks for example
+- Laravel + PHP + MySQL 
+- C# + ASP + MSSQL
+- Flutter + Firebase
+
 ##### Frameworks
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
