@@ -7,11 +7,11 @@
 ### Projects
 
 Apart from the pinned repositories, I have built:
-- ﹩ [GeldBegeleiding](https://geldbegeleiding.nl)
-- 🔍 [SensitivityCheck](https://sensitivity-check.com) *Made for 4People Communications on Internship*
-- 👕 [GoodLookz](https://good-lookz.com) *Made for 4People Communications on Internship*
+- 🎮 [Questinator](https://www.github.com/jayverrijt/questinator/)
+- € [MoneyMaker24](https://www.github.com/jayverrijt/MoneyMaker24/) 
+- 👕 [GoodLookz](https://glookz.duckdns.org) *Made for 4People Communications on Internship*
 - 📷 [ScannerApp](https://github.com/jayverrijt/scannerapp-mobile) *One of projects to mimick an PDA reatil computer*
-- 🌐 [Jverrijtdotcom](https://jverrijt.com) *My portfolio website*
+- 🚨 [Alert-All](https://4people.nl/enextsubpage/2/41) *Member of the developer team for Alert All by 4People Communications.*
 
 
 ### Tech Stack
