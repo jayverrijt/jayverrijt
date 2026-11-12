@@ -85,6 +85,7 @@ Contributed to multiple production repositories within the **4People Communicati
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jayverrijt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Jay's GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayverrijt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=jayverrijt&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayverrijt&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
 </div>
