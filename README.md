@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi im Jay👋</h1>
-  <p><strong>HBO-ICT Student & Full-Stack Software Developer</strong> based in the Netherlands 🇳🇱</p>
-  <p>Focused on scalable backend architectures, containerized web applications, and automated CI/CD pipelines.</p>
+  <p><strong>HBO-ICT Student & Full-Stack Software Developer</strong></p>
+  <p>Focused on scalable full stack solutions.</p>
 
   <p>
     <a href="https://www.jayverrijt.nl" target="_blank">
