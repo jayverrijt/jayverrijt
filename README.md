@@ -23,7 +23,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Backend & Languages**
 <p>
@@ -56,8 +56,8 @@
 
 ---
 
-### 🏢 Experience — 4People Communications
-Contributed to multiple production repositories within the **4People Communications** GitHub organization:
+### Experience
+Contributed to multiple projects within the **4People Communications** organization:
 
 | Project | Role & Contribution | Stack |
 | :--- | :--- | :--- |
@@ -68,7 +68,7 @@ Contributed to multiple production repositories within the **4People Communicati
 
 ---
 
-### 📂 Featured Personal & Academic Projects
+### Featured Personal & Academic Projects
 
 | Project | Description | Primary Stack |
 | :--- | :--- | :--- |
@@ -82,7 +82,7 @@ Contributed to multiple production repositories within the **4People Communicati
 
 ---
 
-### 📊 GitHub Activity
+### GitHub Activity
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=jayverrijt&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
